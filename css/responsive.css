@@ -1,0 +1,179 @@
+@media (max-width: 1399px){
+	
+}
+
+@media (max-width: 1199px){
+	.banner__arrow{
+		display: none;
+	}
+	.banner__content h1{
+	font-size: 100px;
+}
+.banner__content span{
+	max-width: 60%;
+}
+.contact{
+	padding: 30px;
+}
+}
+
+@media (max-width: 991px){
+	.banner__content h1 {
+ 	font-size: 100px;
+    font-weight: 600;
+}
+	.service__box{
+		padding: 0;
+	}
+	.service__box h3{
+    padding-top: 20px;
+   font-size: 15px;
+   margin-bottom: 10px;
+	}
+	.service__box p{
+		font-size: 13px;
+    	padding-top: 0;
+}
+.service__icon{
+ 	width: 70px;
+    height: 70px;
+    line-height: 70px;
+    
+}
+.banner__content h1{
+	font-size: 100px;
+}
+.showcase-box ul li a{
+	width: 40px;
+	height: 40px;
+	line-height: 40px;
+}
+.btn__custom{
+	padding: 8px 30px;
+}
+.banner__arrow{
+	display: none;
+}
+
+}
+
+@media (max-width: 766px){
+	.service__box{
+		margin-bottom: 25px;
+	}
+	.about__content{
+		padding: 20px 0;
+	}
+	.about__content p{
+		font-size: 14px;
+		max-width: 320px;
+	}
+	.about__content h2{
+		font-size: 33px;
+	}
+	.banner__arrow{
+		display: none;
+	}
+	.banner__content h1{
+		font-size: 60px;
+		margin-bottom: 10px;
+	}
+	.banner__content span{
+		max-width: 65%;
+
+	}
+	.banner__content p {
+    margin-top: 10px;
+    font-size: 14px;
+    margin: 20px 0;
+
+}
+
+.btn__custom {
+    border: 1px solid var(--theme-color-blue);
+    font-size: 15px;
+    font-weight: 600;
+    color: #fff;
+    padding: 9px 28px;
+    margin-top: 5px;
+}
+
+
+	.showcase{
+		padding: 15px;
+	}
+	.heading h2{
+		font-size: 25px;
+	}
+	.heading p{
+		padding: 5px 0px;
+		font-size: 16px;
+	}
+
+}
+
+@media (max-width: 575px){
+	footer p{
+		text-align: center;
+	}
+	.social{
+		justify-content: center;
+	}
+	footer{
+		padding: 10px 0;
+	}
+	.service__box{
+		margin-bottom: 35px;
+	}
+	.about__content{
+		padding: 20px 0;
+	}
+	.about__content p{
+		font-size: 13px;
+		max-width: 320px;
+	}
+	.about__content h2{
+		font-size: 30px;
+	}
+	.banner__arrow{
+		display: none;
+	}
+	.banner__content h1{
+		font-size: 35px;
+		margin-bottom: 10px;
+	}
+	.banner__content span{
+		max-width: 50%;
+
+	}
+	.banner__content p {
+    margin-top: 5px;
+    font-size: 13px;
+    margin: 10px 0;
+
+}
+
+.btn__custom {
+    border: 1px solid var(--theme-color-blue);
+    font-size: 13px;
+    font-weight: 600;
+    color: #fff;
+    padding: 8px 25px;
+    margin-top: 5px;
+}
+
+
+	.showcase{
+		padding: 7px;
+	}
+	.heading h2{
+		font-size: 23px;
+	}
+	.heading p{
+		padding: 3px 0px;
+		font-size: 16px;
+	}
+	.contact{
+		padding-top: 0px;
+	}
+}
